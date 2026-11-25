@@ -16,6 +16,7 @@ I am now seeking Business Analyst or Data Analyst roles in Canada, where I can l
 ## Featured projects
 | Project | What it shows | Links |
 |---|---|---|
+| **undefined** | SQL, Power BI, Excel, Data analysis | [code](https://github.com/bmmahdi/credit-risk-dashboard-retail-bank) · [dashboard](https://bmmahdi.github.io/credit-risk-dashboard-retail-bank/) |
 | **undefined** | SQL, Power BI, Python, Data Analysis | [code](https://github.com/bmmahdi/telecom-churn-analysis-retention) · [dashboard](https://bmmahdi.github.io/telecom-churn-analysis-retention/) |
 | **undefined** | SQL, Power BI, Excel, Data analysis | [code](https://github.com/bmmahdi/food-supply-chain-sales-dashboard) · [dashboard](https://bmmahdi.github.io/food-supply-chain-sales-dashboard/) |
 
